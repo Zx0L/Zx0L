@@ -27,13 +27,6 @@ I love experimenting with **cybersecurity tools** and **writing efficient code**
 
 ---
 
-## 📈 GitHub Stats:
-![3vscythe's GitHub stats](https://github-readme-stats.vercel.app/api?username=3vscythe&show_icons=true&theme=radical)
-
----
-
-## 🚀 Get in Touch:
-- 🖥️ [Portfolio](#) *(coming soon!)*  
 - ✉️ Reach out to me on GitHub or drop me a DM.
 
 ---
