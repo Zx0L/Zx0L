@@ -10,8 +10,8 @@ I'm **Zx0L**, a student diving deep into **pentesting** 🕵️‍♂️ and exp
 ![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Tools:
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?&logo=kali-linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=cyan)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=red)
 
 ---
 
