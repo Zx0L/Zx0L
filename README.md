@@ -5,9 +5,9 @@ I'm **Zx0L**, a student diving deep into **pentesting** 🕵️‍♂️ and exp
 ## 🛠️ Skills & Tools
 
 ### Languages & Frameworks:
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=cplusplus)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?&logo=solidity)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=blue)
+![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Tools:
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?&logo=kali-linux)
